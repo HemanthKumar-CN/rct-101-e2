@@ -70,6 +70,30 @@
       "price": "300",
       "imageSrc": "https://picsum.photos/seed/picsum2/421/261",
       "id": 9
+    },
+    {
+      "title": "Shirt",
+      "category": "pant",
+      "gender": "male",
+      "price": "1200",
+      "imageSrc": "https://picsum.photos/seed/picsum2/421/261",
+      "id": 10
+    },
+    {
+      "title": "Hat",
+      "category": "pant",
+      "gender": "Male",
+      "imageSrc": "https://picsum.photos/seed/picsum6/420/260",
+      "price": "1200",
+      "id": 11
+    },
+    {
+      "title": "bum",
+      "category": "jeans",
+      "gender": "unisex",
+      "price": "1209",
+      "imageSrc": "https://picsum.photos/seed/picsum2/421/261",
+      "id": 12
     }
   ]
 }
